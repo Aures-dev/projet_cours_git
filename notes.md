@@ -9,3 +9,11 @@ enregistre les modifications apportées à un fichier
 # git commit -m "nom du commit"
 
 enrigistre le travail dans le dépot local
+
+# git push
+
+envoi les modifications du dépot local vers le dépot distant
+
+# git pull origin main
+
+recupère les modifications apportées depuis le dépot distant
